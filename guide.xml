@@ -1,28 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal 1 (Colombia)">
-    <display-name lang="es">Canal 1 (Colombia)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Azteca Uno">
-    <display-name lang="es">Canal Azteca Uno</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Azteca Uno -1 Hora">
-    <display-name lang="es">Canal Azteca Uno -1 Hora</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_1h-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Azteca Uno -2 Horas">
-    <display-name lang="es">Canal Azteca Uno -2 Horas</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal La 1">
-    <display-name lang="es">Canal La 1</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_1-mediano.png" />
+  <channel id="Canal Más Chic Latinoamérica">
+    <display-name lang="es">Canal Más Chic Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Comedy Central (Latinoamérica)">
@@ -35,1101 +15,350 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_mexico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200318003000 -0600" stop="20200318010000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Gente Pelota</title>
+  <programme start="20200318003000 -0600" stop="20200318010000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200318010000 -0600" stop="20200318013000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; La Noticia</title>
+  <programme start="20200318010000 -0600" stop="20200318013000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Colombia moda 2018</title>
   </programme>
-  <programme start="20200318013000 -0600" stop="20200318020000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">GPS</title>
+  <programme start="20200318013000 -0600" stop="20200318020000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318020000 -0600" stop="20200318023000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Panorama</title>
+  <programme start="20200318020000 -0600" stop="20200318023000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318023000 -0600" stop="20200318030000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; Internacional</title>
+  <programme start="20200318023000 -0600" stop="20200318030000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318030000 -0600" stop="20200318033000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Pregunta Yamid</title>
+  <programme start="20200318030000 -0600" stop="20200318033000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200318033000 -0600" stop="20200318041500 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; La Noticia</title>
+  <programme start="20200318033000 -0600" stop="20200318040000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200318041500 -0600" stop="20200318043000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Hashtag</title>
+  <programme start="20200318040000 -0600" stop="20200318043000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200318043000 -0600" stop="20200318053000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Contraste debate</title>
+  <programme start="20200318043000 -0600" stop="20200318050000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318053000 -0600" stop="20200318060000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Hablando de vida</title>
+  <programme start="20200318050000 -0600" stop="20200318053000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200318060000 -0600" stop="20200318120000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Cierre de transmisión</title>
+  <programme start="20200318053000 -0600" stop="20200318060000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+  <programme start="20200318060000 -0600" stop="20200318063000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200318123000 -0600" stop="20200318130000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Agricultura al Día</title>
+  <programme start="20200318063000 -0600" stop="20200318070000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200318130000 -0600" stop="20200318133000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">La revista</title>
+  <programme start="20200318070000 -0600" stop="20200318073000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Colombia moda 2018</title>
   </programme>
-  <programme start="20200318133000 -0600" stop="20200318183000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">En las mañanas con Uno</title>
+  <programme start="20200318073000 -0600" stop="20200318080000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318183000 -0600" stop="20200318190000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Telepaís</title>
+  <programme start="20200318080000 -0600" stop="20200318083000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318190000 -0600" stop="20200318200000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">La revista</title>
+  <programme start="20200318083000 -0600" stop="20200318090000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318200000 -0600" stop="20200318203000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Naturalmente Saludable</title>
+  <programme start="20200318090000 -0600" stop="20200318093000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200318203000 -0600" stop="20200318210000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Acciones que cambian el mundo</title>
+  <programme start="20200318093000 -0600" stop="20200318100000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200318210000 -0600" stop="20200318220000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Juntos a las 3</title>
+  <programme start="20200318100000 -0600" stop="20200318103000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200318220000 -0600" stop="20200318230000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  <programme start="20200318103000 -0600" stop="20200318110000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318230000 -0600" stop="20200318233000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Actualidad científica</title>
+  <programme start="20200318110000 -0600" stop="20200318113000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200318233000 -0600" stop="20200319033000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El camino antiguo</title>
+  <programme start="20200318113000 -0600" stop="20200318120000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200319033000 -0600" stop="20200319041500 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; La Noticia</title>
+  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200319041500 -0600" stop="20200319050000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Los ángeles de Juan</title>
+  <programme start="20200318123000 -0600" stop="20200318130000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200319050000 -0600" stop="20200319200000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">En Contacto</title>
+  <programme start="20200318130000 -0600" stop="20200318133000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200319200000 -0600" stop="20200319230000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Actualidad científica</title>
+  <programme start="20200318133000 -0600" stop="20200318140000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200319230000 -0600" stop="20200320043000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Quality innova</title>
+  <programme start="20200318140000 -0600" stop="20200318143000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200320043000 -0600" stop="20200320050000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Veredicto</title>
+  <programme start="20200318143000 -0600" stop="20200318150000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200320050000 -0600" stop="20200320053000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Telehits</title>
+  <programme start="20200318150000 -0600" stop="20200318153000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200320053000 -0600" stop="20200320060000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Hablando de vida</title>
+  <programme start="20200318153000 -0600" stop="20200318160000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200320060000 -0600" stop="20200320120000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Cierre de transmisión</title>
+  <programme start="20200318160000 -0600" stop="20200318163000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200320120000 -0600" stop="20200320123000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+  <programme start="20200318163000 -0600" stop="20200318170000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200320123000 -0600" stop="20200320130000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Agricultura al Día</title>
+  <programme start="20200318170000 -0600" stop="20200318173000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200320130000 -0600" stop="20200320133000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">La revista</title>
+  <programme start="20200318173000 -0600" stop="20200318180000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200320133000 -0600" stop="20200320183000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">En las mañanas con Uno</title>
+  <programme start="20200318180000 -0600" stop="20200318183000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200320183000 -0600" stop="20200320190000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Telepaís</title>
+  <programme start="20200318183000 -0600" stop="20200318190000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200320190000 -0600" stop="20200320200000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">La revista</title>
+  <programme start="20200318190000 -0600" stop="20200318193000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200320200000 -0600" stop="20200320203000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud a su alcance</title>
+  <programme start="20200318193000 -0600" stop="20200318200000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200320203000 -0600" stop="20200320210000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Acciones que cambian el mundo</title>
+  <programme start="20200318200000 -0600" stop="20200318203000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200320210000 -0600" stop="20200320220000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Juntos a las 3</title>
+  <programme start="20200318203000 -0600" stop="20200318210000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200320220000 -0600" stop="20200320230000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  <programme start="20200318210000 -0600" stop="20200318213000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200320230000 -0600" stop="20200320233000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Biomedicina a su salud</title>
+  <programme start="20200318213000 -0600" stop="20200318220000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200320233000 -0600" stop="20200321010000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El camino antiguo</title>
+  <programme start="20200318220000 -0600" stop="20200318223000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200321010000 -0600" stop="20200321011500 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; La Noticia</title>
+  <programme start="20200318223000 -0600" stop="20200318230000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200321011500 -0600" stop="20200321014000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Noticiero del Senado</title>
+  <programme start="20200318230000 -0600" stop="20200318233000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200321014000 -0600" stop="20200321021000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">GPS</title>
+  <programme start="20200318233000 -0600" stop="20200319003000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200321021000 -0600" stop="20200321024000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Panorama</title>
+  <programme start="20200319003000 -0600" stop="20200319010000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200321024000 -0600" stop="20200321030000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; Internacional</title>
+  <programme start="20200319010000 -0600" stop="20200319040000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200321030000 -0600" stop="20200321033000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Pregunta Yamid</title>
+  <programme start="20200319040000 -0600" stop="20200319063000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200321033000 -0600" stop="20200321041500 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">CM&amp; La Noticia</title>
+  <programme start="20200319063000 -0600" stop="20200319070000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200321041500 -0600" stop="20200321044500 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Asi da gusto vivir</title>
+  <programme start="20200319070000 -0600" stop="20200319123000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200321044500 -0600" stop="20200321050000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Telehits</title>
+  <programme start="20200319123000 -0600" stop="20200319130000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200321050000 -0600" stop="20200321060000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El lugar de su presencia</title>
+  <programme start="20200319130000 -0600" stop="20200319183000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200321060000 -0600" stop="20200321070000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Es Posible</title>
+  <programme start="20200319183000 -0600" stop="20200319190000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200321070000 -0600" stop="20200321120000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Cierre de transmisión</title>
+  <programme start="20200319190000 -0600" stop="20200320010000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200321120000 -0600" stop="20200321123000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Telehits</title>
+  <programme start="20200320010000 -0600" stop="20200320070000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200321123000 -0600" stop="20200321130000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Plan B</title>
+  <programme start="20200320070000 -0600" stop="20200320130000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200321130000 -0600" stop="20200321133000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Encuentro</title>
+  <programme start="20200320130000 -0600" stop="20200320190000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321133000 -0600" stop="20200321140000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Ninja Warrior</title>
+  <programme start="20200320190000 -0600" stop="20200321010000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321140000 -0600" stop="20200321150000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Hechos y Crónicas</title>
+  <programme start="20200321010000 -0600" stop="20200321070000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321150000 -0600" stop="20200321153000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Naturalmente Saludable</title>
+  <programme start="20200321070000 -0600" stop="20200321110000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321153000 -0600" stop="20200321160000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Actualidad científica</title>
+  <programme start="20200321110000 -0600" stop="20200321113000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200321160000 -0600" stop="20200321163000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Biomedicina a su salud</title>
+  <programme start="20200321113000 -0600" stop="20200321120000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20200321163000 -0600" stop="20200321170000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Defensor del Televidente UNO TV</title>
+  <programme start="20200321120000 -0600" stop="20200321123000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Deco Hogar</title>
   </programme>
-  <programme start="20200321170000 -0600" stop="20200321173000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud y vida</title>
+  <programme start="20200321123000 -0600" stop="20200321130000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200321173000 -0600" stop="20200321180000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Volvamos a Dios</title>
+  <programme start="20200321130000 -0600" stop="20200321133000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200321180000 -0600" stop="20200321190000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Dimensión cooperativa</title>
+  <programme start="20200321133000 -0600" stop="20200321140000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200321190000 -0600" stop="20200321193000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El lugar de su presencia</title>
+  <programme start="20200321140000 -0600" stop="20200321143000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200321193000 -0600" stop="20200321200000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Asi da gusto vivir</title>
+  <programme start="20200321143000 -0600" stop="20200321150000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200321200000 -0600" stop="20200321203000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Quality innova</title>
+  <programme start="20200321150000 -0600" stop="20200321153000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200321203000 -0600" stop="20200321210000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud y vida</title>
+  <programme start="20200321153000 -0600" stop="20200321160000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200321210000 -0600" stop="20200321213000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Ninja Warrior</title>
+  <programme start="20200321160000 -0600" stop="20200321163000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200321213000 -0600" stop="20200321223000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Cazodores de tesoros</title>
+  <programme start="20200321163000 -0600" stop="20200321170000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Reciclarte</title>
   </programme>
-  <programme start="20200321223000 -0600" stop="20200321233000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Hombres de honor</title>
+  <programme start="20200321170000 -0600" stop="20200321173000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200321233000 -0600" stop="20200322000000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+  <programme start="20200321173000 -0600" stop="20200321180000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20200322000000 -0600" stop="20200322010000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El Show de las Estrellas</title>
+  <programme start="20200321180000 -0600" stop="20200321183000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Deco Hogar</title>
   </programme>
-  <programme start="20200322010000 -0600" stop="20200322013000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El Show de las Estrellas</title>
+  <programme start="20200321183000 -0600" stop="20200321190000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200322013000 -0600" stop="20200322020000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El Show de las Estrellas</title>
+  <programme start="20200321190000 -0600" stop="20200321193000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200322020000 -0600" stop="20200322024500 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Los ángeles de Juan</title>
+  <programme start="20200321193000 -0600" stop="20200321200000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200322024500 -0600" stop="20200322030000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Primer Impacto</title>
+  <programme start="20200321200000 -0600" stop="20200321203000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200322030000 -0600" stop="20200322042000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Noticias Uno</title>
+  <programme start="20200321203000 -0600" stop="20200321210000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Mi Boda</title>
   </programme>
-  <programme start="20200322042000 -0600" stop="20200322045000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Visión de Fondo</title>
+  <programme start="20200321210000 -0600" stop="20200321213000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200322045000 -0600" stop="20200322050000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Tiempo de música</title>
+  <programme start="20200321213000 -0600" stop="20200321220000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decora con flores</title>
   </programme>
-  <programme start="20200322050000 -0600" stop="20200322060000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Hablando de vida</title>
+  <programme start="20200321220000 -0600" stop="20200321223000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Vísteme Laura</title>
   </programme>
-  <programme start="20200322060000 -0600" stop="20200322120000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Musicales uno</title>
+  <programme start="20200321223000 -0600" stop="20200321230000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200322120000 -0600" stop="20200322123000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Resumen En las mañanas con Uno</title>
+  <programme start="20200321230000 -0600" stop="20200321233000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Renueva tu imagen</title>
   </programme>
-  <programme start="20200322123000 -0600" stop="20200322130000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Asi da gusto vivir</title>
+  <programme start="20200321233000 -0600" stop="20200322000000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200322130000 -0600" stop="20200322140000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Actitud Positiva</title>
+  <programme start="20200322000000 -0600" stop="20200322003000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200322140000 -0600" stop="20200322150000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El puede hacerlo de nuevo</title>
+  <programme start="20200322003000 -0600" stop="20200322010000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200322150000 -0600" stop="20200322160000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Compras CDC</title>
+  <programme start="20200322010000 -0600" stop="20200322013000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200322160000 -0600" stop="20200322163000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Con Belisario por el Mundo</title>
+  <programme start="20200322013000 -0600" stop="20200322020000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200322163000 -0600" stop="20200322170000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El lugar de su presencia</title>
+  <programme start="20200322020000 -0600" stop="20200322023000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20200322170000 -0600" stop="20200322173000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud a su alcance</title>
+  <programme start="20200322023000 -0600" stop="20200322030000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200322173000 -0600" stop="20200322180000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">La casa verde</title>
+  <programme start="20200322030000 -0600" stop="20200322033000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200322180000 -0600" stop="20200322190000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Proyectando a Colombia</title>
+  <programme start="20200322033000 -0600" stop="20200322040000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200322190000 -0600" stop="20200322193000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Vida Natural</title>
+  <programme start="20200322040000 -0600" stop="20200322043000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200322193000 -0600" stop="20200322200000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Contrastes</title>
+  <programme start="20200322043000 -0600" stop="20200322050000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Reciclarte</title>
   </programme>
-  <programme start="20200322200000 -0600" stop="20200322203000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Vamos Colombia</title>
+  <programme start="20200322050000 -0600" stop="20200322053000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200322203000 -0600" stop="20200322210000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud y vida</title>
+  <programme start="20200322053000 -0600" stop="20200322060000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion week Madrid 2018</title>
   </programme>
-  <programme start="20200322210000 -0600" stop="20200322213000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Ninja Warrior</title>
+  <programme start="20200322060000 -0600" stop="20200322063000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200322213000 -0600" stop="20200322223000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Documentales de la BBC</title>
+  <programme start="20200322063000 -0600" stop="20200322070000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200322223000 -0600" stop="20200322230000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20200322070000 -0600" stop="20200322073000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Vísteme Laura</title>
   </programme>
-  <programme start="20200322230000 -0600" stop="20200322233000 -0600" channel="Canal 1 (Colombia)">
-    <title lang="es">Teleweb</title>
+  <programme start="20200322073000 -0600" stop="20200322080000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Cuerpo en Armonía</title>
   </programme>
-  <programme start="20200318003000 -0600" stop="20200318023000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Enamorándonos</title>
+  <programme start="20200322080000 -0600" stop="20200322083000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318023000 -0600" stop="20200318053000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">¿Te La Juegas</title>
+  <programme start="20200322083000 -0600" stop="20200322090000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200318053000 -0600" stop="20200318061500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Hechos de la noche</title>
+  <programme start="20200322090000 -0600" stop="20200322093000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318061500 -0600" stop="20200318063000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Hechos CDMX</title>
+  <programme start="20200322093000 -0600" stop="20200322100000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318063000 -0600" stop="20200318070000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Los protagonistas</title>
+  <programme start="20200322100000 -0600" stop="20200322103000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318070000 -0600" stop="20200318071500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Himno Nacional</title>
+  <programme start="20200322103000 -0600" stop="20200322130000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Reciclarte</title>
   </programme>
-  <programme start="20200318071500 -0600" stop="20200318080000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Iglesia Universal</title>
+  <programme start="20200322130000 -0600" stop="20200322190000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200318080000 -0600" stop="20200318110000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Paid Programing</title>
+  <programme start="20200322190000 -0600" stop="20200323010000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200318110000 -0600" stop="20200318111500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Azteca Uno</title>
+  <programme start="20200323010000 -0600" stop="20200323070000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200318111500 -0600" stop="20200318120000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Paid Programing</title>
+  <programme start="20200323070000 -0600" stop="20200323130000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Que Cotorreo</title>
-  </programme>
-  <programme start="20200318123000 -0600" stop="20200318125500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20200318125500 -0600" stop="20200318160000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20200318160000 -0600" stop="20200318180000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318180000 -0600" stop="20200318200000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318200000 -0600" stop="20200318210000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318210000 -0600" stop="20200318220000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20200318220000 -0600" stop="20200318230000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Escape Perfecto</title>
-  </programme>
-  <programme start="20200318230000 -0600" stop="20200319023000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(c)</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20200319023000 -0600" stop="20200319123000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">¿Te La Juegas</title>
-  </programme>
-  <programme start="20200319123000 -0600" stop="20200319130000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20200319130000 -0600" stop="20200319131500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20200319131500 -0600" stop="20200319140000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200319140000 -0600" stop="20200319143000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20200319143000 -0600" stop="20200319150000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20200319150000 -0600" stop="20200319160000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
-  </programme>
-  <programme start="20200319160000 -0600" stop="20200319200000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200319200000 -0600" stop="20200319210000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">A cada quien su santo</title>
-    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.</desc>
-    <date>2009</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Novela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
-  </programme>
-  <programme start="20200319210000 -0600" stop="20200319220000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Hechos Sábado</title>
-  </programme>
-  <programme start="20200319220000 -0600" stop="20200320000000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20200320000000 -0600" stop="20200320030000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Corazón grupero</title>
-  </programme>
-  <programme start="20200320030000 -0600" stop="20200320060000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Mi pareja puede</title>
-  </programme>
-  <programme start="20200320060000 -0600" stop="20200320070000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">La resolana</title>
-  </programme>
-  <programme start="20200320070000 -0600" stop="20200320071500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20200320071500 -0600" stop="20200320091500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200320091500 -0600" stop="20200320111500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200320111500 -0600" stop="20200320123000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200320123000 -0600" stop="20200320140000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200320140000 -0600" stop="20200320143000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Que Cotorreo</title>
-  </programme>
-  <programme start="20200320143000 -0600" stop="20200320160000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200320160000 -0600" stop="20200320190000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200320190000 -0600" stop="20200320200000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Mugo Live</title>
-  </programme>
-  <programme start="20200320200000 -0600" stop="20200320220000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
-  </programme>
-  <programme start="20200320220000 -0600" stop="20200320230000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">En sus Batallas</title>
-  </programme>
-  <programme start="20200320230000 -0600" stop="20200321010000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Domingo Al Extremo</title>
-  </programme>
-  <programme start="20200321010000 -0600" stop="20200321030000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Spotify Awards</title>
-  </programme>
-  <programme start="20200321030000 -0600" stop="20200321061500 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20200321061500 -0600" stop="20200321070000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">La resolana</title>
-  </programme>
-  <programme start="20200321070000 -0600" stop="20200321110000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321110000 -0600" stop="20200321150000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321150000 -0600" stop="20200321190000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321190000 -0600" stop="20200321230000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321230000 -0600" stop="20200322030000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200318013000 -0600" stop="20200318033000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Enamorándonos</title>
-  </programme>
-  <programme start="20200318033000 -0600" stop="20200318063000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20200318063000 -0600" stop="20200318071500 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Hechos Noche</title>
-  </programme>
-  <programme start="20200318071500 -0600" stop="20200318073000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20200318073000 -0600" stop="20200318080000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Los Protagonistas</title>
-  </programme>
-  <programme start="20200318080000 -0600" stop="20200318090000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318090000 -0600" stop="20200318093000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318093000 -0600" stop="20200318100000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318100000 -0600" stop="20200318103000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318103000 -0600" stop="20200318110000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318110000 -0600" stop="20200318113000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318113000 -0600" stop="20200318120000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318123000 -0600" stop="20200318130000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318130000 -0600" stop="20200318133000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Que Cotorreo</title>
-  </programme>
-  <programme start="20200318133000 -0600" stop="20200318140000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200318140000 -0600" stop="20200318170000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20200318170000 -0600" stop="20200318190000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318190000 -0600" stop="20200318210000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318210000 -0600" stop="20200318220000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318220000 -0600" stop="20200318230000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Hechos Meridiano</title>
-  </programme>
-  <programme start="20200318230000 -0600" stop="20200319033000 -0600" channel="Canal Azteca Uno -1 Hora">
-    <title lang="es">Escape Perfecto</title>
-  </programme>
-  <programme start="20200318010000 -0600" stop="20200318023000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20200318023000 -0600" stop="20200318043000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Enamorándonos</title>
-  </programme>
-  <programme start="20200318043000 -0600" stop="20200318073000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">¿Te La Juegas</title>
-  </programme>
-  <programme start="20200318073000 -0600" stop="20200318081500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Hechos de la noche</title>
-  </programme>
-  <programme start="20200318081500 -0600" stop="20200318083000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20200318083000 -0600" stop="20200318090000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20200318090000 -0600" stop="20200318091500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20200318091500 -0600" stop="20200318100000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20200318100000 -0600" stop="20200318130000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200318130000 -0600" stop="20200318131500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200318131500 -0600" stop="20200318140000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200318140000 -0600" stop="20200318143000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Que Cotorreo</title>
-  </programme>
-  <programme start="20200318143000 -0600" stop="20200318145500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20200318145500 -0600" stop="20200318180000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20200318180000 -0600" stop="20200318200000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318200000 -0600" stop="20200318220000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318220000 -0600" stop="20200318230000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200318230000 -0600" stop="20200319023000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20200319023000 -0600" stop="20200319143000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Enamorándonos</title>
-  </programme>
-  <programme start="20200319143000 -0600" stop="20200319150000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20200319150000 -0600" stop="20200319151500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20200319151500 -0600" stop="20200319160000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200319160000 -0600" stop="20200319163000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20200319163000 -0600" stop="20200319170000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20200319170000 -0600" stop="20200319180000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
-  </programme>
-  <programme start="20200319180000 -0600" stop="20200319220000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200319220000 -0600" stop="20200319230000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">A cada quien su santo</title>
-    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.</desc>
-    <date>2009</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Novela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
-  </programme>
-  <programme start="20200319230000 -0600" stop="20200320000000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Hechos Sábado</title>
-  </programme>
-  <programme start="20200320000000 -0600" stop="20200320020000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20200320020000 -0600" stop="20200320050000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Corazón grupero</title>
-  </programme>
-  <programme start="20200320050000 -0600" stop="20200320080000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Mi pareja puede</title>
-  </programme>
-  <programme start="20200320080000 -0600" stop="20200320090000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">La resolana</title>
-  </programme>
-  <programme start="20200320090000 -0600" stop="20200320091500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20200320091500 -0600" stop="20200320111500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200320111500 -0600" stop="20200320131500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200320131500 -0600" stop="20200320143000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200320143000 -0600" stop="20200320160000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200320160000 -0600" stop="20200320163000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Que Cotorreo</title>
-  </programme>
-  <programme start="20200320163000 -0600" stop="20200320180000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200320180000 -0600" stop="20200320210000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20200320210000 -0600" stop="20200320220000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Mugo Live</title>
-  </programme>
-  <programme start="20200320220000 -0600" stop="20200321000000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
-  </programme>
-  <programme start="20200321000000 -0600" stop="20200321010000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">En sus Batallas</title>
-  </programme>
-  <programme start="20200321010000 -0600" stop="20200321030000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Domingo Al Extremo</title>
-  </programme>
-  <programme start="20200321030000 -0600" stop="20200321050000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Spotify Awards</title>
-  </programme>
-  <programme start="20200321050000 -0600" stop="20200321081500 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20200321081500 -0600" stop="20200321090000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">La resolana</title>
-  </programme>
-  <programme start="20200321090000 -0600" stop="20200321130000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321130000 -0600" stop="20200321170000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321170000 -0600" stop="20200321210000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200321210000 -0600" stop="20200322010000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200322010000 -0600" stop="20200322050000 -0600" channel="Canal Azteca Uno -2 Horas">
-    <title lang="es">Azteca Uno</title>
-  </programme>
-  <programme start="20200318002000 -0600" stop="20200318022000 -0600" channel="Canal La 1">
-    <title lang="es">Need for Speed</title>
-    <desc lang="es">Tras ser puesto en libertad por un crimen que no cometió, el corredor Tobey Marshall recorre todo el país para vengar la muerte de su amigo Pete.</desc>
-    <credits>
-      <actor>Aaron Paul</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Scott Mescudi</actor>
-      <actor>Michael Keaton</actor>
-      <producer>John Gatins</producer>
-      <producer>Patrick O'Brien</producer>
-    </credits>
-    <date>2014</date>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/need_for_speed.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20200318022000 -0600" stop="20200318041500 -0600" channel="Canal La 1">
-    <title lang="es">La noche en 24 horas</title>
-  </programme>
-  <programme start="20200318041500 -0600" stop="20200318060000 -0600" channel="Canal La 1">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-  <programme start="20200318060000 -0600" stop="20200318070000 -0600" channel="Canal La 1">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-  <programme start="20200318070000 -0600" stop="20200318090000 -0600" channel="Canal La 1">
-    <title lang="es">Telediario matinal</title>
-  </programme>
-  <programme start="20200318090000 -0600" stop="20200318120000 -0600" channel="Canal La 1">
-    <title lang="es">Comparecencia del Presidente en el Congreso Medidas crisis Coronavirus</title>
-  </programme>
-  <programme start="20200318120000 -0600" stop="20200318130000 -0600" channel="Canal La 1">
-    <title lang="es">La mañana de la 1</title>
-    <episode-num system="onscreen">E562</episode-num>
-  </programme>
-  <programme start="20200318130000 -0600" stop="20200318140000 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200318140000 -0600" stop="20200318141000 -0600" channel="Canal La 1">
-    <title lang="es">Redifusión La1</title>
-  </programme>
-  <programme start="20200318141000 -0600" stop="20200318143000 -0600" channel="Canal La 1">
-    <title lang="es">Viaje al centro de la tele</title>
-    <episode-num system="onscreen">S9</episode-num>
-  </programme>
-  <programme start="20200318143000 -0600" stop="20200318162000 -0600" channel="Canal La 1">
-    <title lang="es">Telediario 1</title>
-  </programme>
-  <programme start="20200318162000 -0600" stop="20200318163000 -0600" channel="Canal La 1">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200318163000 -0600" stop="20200318172000 -0600" channel="Canal La 1">
-    <title lang="es">Mercado Central</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200318172000 -0600" stop="20200318175000 -0600" channel="Canal La 1">
-    <title lang="es">Servir y proteger</title>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
-  <programme start="20200318175000 -0600" stop="20200318175500 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200318175500 -0600" stop="20200318185000 -0600" channel="Canal La 1">
-    <title lang="es">Acacias 38</title>
-  </programme>
-  <programme start="20200318185000 -0600" stop="20200318194000 -0600" channel="Canal La 1">
-    <title lang="es">El Cazador</title>
-    <episode-num system="onscreen">S1 E28</episode-num>
-  </programme>
-  <programme start="20200318194000 -0600" stop="20200318204500 -0600" channel="Canal La 1">
-    <title lang="es">España Directo</title>
-  </programme>
-  <programme start="20200318204500 -0600" stop="20200318220500 -0600" channel="Canal La 1">
-    <title lang="es">Telediario 2</title>
-  </programme>
-  <programme start="20200318220500 -0600" stop="20200318222000 -0600" channel="Canal La 1">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200318222000 -0600" stop="20200318224500 -0600" channel="Canal La 1">
-    <title lang="es">Tvemos</title>
-    <episode-num system="onscreen">S2020 E155</episode-num>
-  </programme>
-  <programme start="20200318224500 -0600" stop="20200318232700 -0600" channel="Canal La 1">
-    <title lang="es">Killing Eve</title>
-    <title lang="xx">Killing Eve</title>
-    <desc lang="es">Dos mujeres obsesionadas entre sí: una operadora de servicio de seguridad y una asesina talentosa que se aferra a los lujos de su trabajo.</desc>
-    <credits>
-      <actor>Sandra Oh</actor>
-      <actor>Jodie Comer</actor>
-      <actor>Fiona Shaw</actor>
-      <actor>Darren Boyd</actor>
-      <actor>Owen McDonnell</actor>
-      <actor>Kirby Howell-Baptiste</actor>
-      <actor>Sean Delaney</actor>
-      <actor>David Haig</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/killing_eve.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20200318232700 -0600" stop="20200318232700 -0600" channel="Canal La 1">
-    <title lang="es">Killing Eve</title>
-    <title lang="xx">Killing Eve</title>
-    <desc lang="es">Dos mujeres obsesionadas entre sí: una operadora de servicio de seguridad y una asesina talentosa que se aferra a los lujos de su trabajo.</desc>
-    <credits>
-      <actor>Sandra Oh</actor>
-      <actor>Jodie Comer</actor>
-      <actor>Fiona Shaw</actor>
-      <actor>Darren Boyd</actor>
-      <actor>Owen McDonnell</actor>
-      <actor>Kirby Howell-Baptiste</actor>
-      <actor>Sean Delaney</actor>
-      <actor>David Haig</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/killing_eve.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20200318232700 -0600" stop="20200319001000 -0600" channel="Canal La 1">
-    <title lang="es">Killing Eve</title>
-    <title lang="xx">Killing Eve</title>
-    <desc lang="es">Dos mujeres obsesionadas entre sí: una operadora de servicio de seguridad y una asesina talentosa que se aferra a los lujos de su trabajo.</desc>
-    <credits>
-      <actor>Sandra Oh</actor>
-      <actor>Jodie Comer</actor>
-      <actor>Fiona Shaw</actor>
-      <actor>Darren Boyd</actor>
-      <actor>Owen McDonnell</actor>
-      <actor>Kirby Howell-Baptiste</actor>
-      <actor>Sean Delaney</actor>
-      <actor>David Haig</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/killing_eve.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20200319001000 -0600" stop="20200319011200 -0600" channel="Canal La 1">
-    <title lang="es">Comando Actualidad</title>
-  </programme>
-  <programme start="20200319011200 -0600" stop="20200319021000 -0600" channel="Canal La 1">
-    <title lang="es">Comando Actualidad</title>
-  </programme>
-  <programme start="20200319021000 -0600" stop="20200319035000 -0600" channel="Canal La 1">
-    <title lang="es">La noche en 24 horas</title>
-  </programme>
-  <programme start="20200319035000 -0600" stop="20200319060000 -0600" channel="Canal La 1">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-  <programme start="20200319060000 -0600" stop="20200319070000 -0600" channel="Canal La 1">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-  <programme start="20200319070000 -0600" stop="20200319090000 -0600" channel="Canal La 1">
-    <title lang="es">Telediario matinal</title>
-  </programme>
-  <programme start="20200319090000 -0600" stop="20200319100000 -0600" channel="Canal La 1">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-  <programme start="20200319100000 -0600" stop="20200319130000 -0600" channel="Canal La 1">
-    <title lang="es">La mañana de la 1</title>
-  </programme>
-  <programme start="20200319130000 -0600" stop="20200319135500 -0600" channel="Canal La 1">
-    <title lang="es">Comando Actualidad</title>
-  </programme>
-  <programme start="20200319135500 -0600" stop="20200319140000 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200319140000 -0600" stop="20200319141500 -0600" channel="Canal La 1">
-    <title lang="es">Redifusión La1</title>
-  </programme>
-  <programme start="20200319141500 -0600" stop="20200319150000 -0600" channel="Canal La 1">
-    <title lang="es">Viaje al centro de la tele</title>
-  </programme>
-  <programme start="20200319150000 -0600" stop="20200319160000 -0600" channel="Canal La 1">
-    <title lang="es">Telediario 1</title>
-  </programme>
-  <programme start="20200319160000 -0600" stop="20200319161500 -0600" channel="Canal La 1">
-    <title lang="es">Redifusión La1</title>
-  </programme>
-  <programme start="20200319161500 -0600" stop="20200319162500 -0600" channel="Canal La 1">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200319162500 -0600" stop="20200319171500 -0600" channel="Canal La 1">
-    <title lang="es">Mercado Central</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200319171500 -0600" stop="20200319180500 -0600" channel="Canal La 1">
-    <title lang="es">Servir y proteger</title>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
-  <programme start="20200319180500 -0600" stop="20200319181000 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200319181000 -0600" stop="20200319190000 -0600" channel="Canal La 1">
-    <title lang="es">Acacias 38</title>
-  </programme>
-  <programme start="20200319190000 -0600" stop="20200319190500 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200319190500 -0600" stop="20200319200000 -0600" channel="Canal La 1">
-    <title lang="es">El Cazador</title>
-  </programme>
-  <programme start="20200319200000 -0600" stop="20200319203000 -0600" channel="Canal La 1">
-    <title lang="es">España Directo</title>
-  </programme>
-  <programme start="20200319203000 -0600" stop="20200319210000 -0600" channel="Canal La 1">
-    <title lang="es">Aqui la tierra</title>
-  </programme>
-  <programme start="20200319210000 -0600" stop="20200319215200 -0600" channel="Canal La 1">
-    <title lang="es">Telediario 2</title>
-  </programme>
-  <programme start="20200319215200 -0600" stop="20200319220500 -0600" channel="Canal La 1">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200319220500 -0600" stop="20200319224500 -0600" channel="Canal La 1">
-    <title lang="es">Tvemos</title>
-  </programme>
-  <programme start="20200319224500 -0600" stop="20200319235500 -0600" channel="Canal La 1">
-    <title lang="es">Cuéntame como pasó</title>
-    <episode-num system="onscreen">S20</episode-num>
-  </programme>
-  <programme start="20200319235500 -0600" stop="20200320014000 -0600" channel="Canal La 1">
-    <title lang="es">Ochentame otra vez</title>
-  </programme>
-  <programme start="20200320014000 -0600" stop="20200320033500 -0600" channel="Canal La 1">
-    <title lang="es">La noche en 24 horas</title>
-  </programme>
-  <programme start="20200320033500 -0600" stop="20200320161500 -0600" channel="Canal La 1">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-  <programme start="20200320161500 -0600" stop="20200320163000 -0600" channel="Canal La 1">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200320163000 -0600" stop="20200320172000 -0600" channel="Canal La 1">
-    <title lang="es">Mercado Central</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200320172000 -0600" stop="20200320174500 -0600" channel="Canal La 1">
-    <title lang="es">Servir y proteger</title>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
-  <programme start="20200320174500 -0600" stop="20200320175000 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200320175000 -0600" stop="20200320185000 -0600" channel="Canal La 1">
-    <title lang="es">Acacias 38</title>
-  </programme>
-  <programme start="20200320185000 -0600" stop="20200320185500 -0600" channel="Canal La 1">
-    <title lang="es">Coronavirus última hora</title>
-  </programme>
-  <programme start="20200320185500 -0600" stop="20200320194500 -0600" channel="Canal La 1">
-    <title lang="es">El Cazador</title>
-  </programme>
-  <programme start="20200320194500 -0600" stop="20200320215200 -0600" channel="Canal La 1">
-    <title lang="es">España Directo</title>
-  </programme>
-  <programme start="20200320215200 -0600" stop="20200320222000 -0600" channel="Canal La 1">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200320222000 -0600" stop="20200321000500 -0600" channel="Canal La 1">
-    <title lang="es">Dispara a matar</title>
-  </programme>
-  <programme start="20200321000500 -0600" stop="20200321021000 -0600" channel="Canal La 1">
-    <title lang="es">La Roca</title>
-  </programme>
-  <programme start="20200321021000 -0600" stop="20200321032500 -0600" channel="Canal La 1">
-    <title lang="es">El final del camino</title>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20200323130000 -0600" stop="20200323190000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Colombia moda 2018</title>
   </programme>
   <programme start="20200318003000 -0600" stop="20200318010000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
@@ -1260,10 +489,7 @@
   <programme start="20200318233000 -0600" stop="20200319020000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319020000 -0600" stop="20200319033000 -0600" channel="Canal Comedy Central (Latinoamérica)">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20200319033000 -0600" stop="20200319040000 -0600" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319020000 -0600" stop="20200319040000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
   <programme start="20200319040000 -0600" stop="20200319043000 -0600" channel="Canal Comedy Central (Latinoamérica)">
@@ -1716,10 +942,7 @@
   <programme start="20200318233000 -0600" stop="20200319020000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319020000 -0600" stop="20200319033000 -0600" channel="Canal Comedy Central (México)">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20200319033000 -0600" stop="20200319040000 -0600" channel="Canal Comedy Central (México)">
+  <programme start="20200319020000 -0600" stop="20200319040000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
   <programme start="20200319040000 -0600" stop="20200319043000 -0600" channel="Canal Comedy Central (México)">
