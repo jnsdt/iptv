@@ -15,1255 +15,1554 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_mexico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200318003000 +0100" stop="20200318010000 +0100" channel="Canal Más Chic Latinoamérica">
+  <channel id="Canal MTV Hits">
+    <display-name lang="es">Canal MTV Hits</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200318003000 -0600" stop="20200318010000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200318010000 +0100" stop="20200318013000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318010000 -0600" stop="20200318013000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Colombia moda 2018</title>
   </programme>
-  <programme start="20200318013000 +0100" stop="20200318020000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318013000 -0600" stop="20200318020000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318020000 +0100" stop="20200318023000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318020000 -0600" stop="20200318023000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318023000 +0100" stop="20200318030000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318023000 -0600" stop="20200318030000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318030000 +0100" stop="20200318033000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318030000 -0600" stop="20200318033000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200318033000 +0100" stop="20200318040000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318033000 -0600" stop="20200318040000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200318040000 +0100" stop="20200318043000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318040000 -0600" stop="20200318043000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200318043000 +0100" stop="20200318050000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318043000 -0600" stop="20200318050000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318050000 +0100" stop="20200318053000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318050000 -0600" stop="20200318053000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200318053000 +0100" stop="20200318060000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318053000 -0600" stop="20200318060000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200318060000 +0100" stop="20200318063000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318060000 -0600" stop="20200318063000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200318063000 +0100" stop="20200318070000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318063000 -0600" stop="20200318070000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200318070000 +0100" stop="20200318073000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318070000 -0600" stop="20200318073000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Colombia moda 2018</title>
   </programme>
-  <programme start="20200318073000 +0100" stop="20200318080000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318073000 -0600" stop="20200318080000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318080000 +0100" stop="20200318083000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318080000 -0600" stop="20200318083000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318083000 +0100" stop="20200318090000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318083000 -0600" stop="20200318090000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318090000 +0100" stop="20200318093000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318090000 -0600" stop="20200318093000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200318093000 +0100" stop="20200318100000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318093000 -0600" stop="20200318100000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200318100000 +0100" stop="20200318103000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318100000 -0600" stop="20200318103000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200318103000 +0100" stop="20200318110000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318103000 -0600" stop="20200318110000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318110000 +0100" stop="20200318113000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318110000 -0600" stop="20200318113000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200318113000 +0100" stop="20200318120000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318113000 -0600" stop="20200318120000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200318120000 +0100" stop="20200318123000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200318123000 +0100" stop="20200318130000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318123000 -0600" stop="20200318130000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200318130000 +0100" stop="20200318133000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318130000 -0600" stop="20200318133000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200318133000 +0100" stop="20200318140000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318133000 -0600" stop="20200318140000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318140000 +0100" stop="20200318143000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318140000 -0600" stop="20200318143000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318143000 +0100" stop="20200318150000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318143000 -0600" stop="20200318150000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318150000 +0100" stop="20200318153000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318150000 -0600" stop="20200318153000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200318153000 +0100" stop="20200318160000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318153000 -0600" stop="20200318160000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200318160000 +0100" stop="20200318163000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318160000 -0600" stop="20200318163000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200318163000 +0100" stop="20200318170000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318163000 -0600" stop="20200318170000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318170000 +0100" stop="20200318173000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318170000 -0600" stop="20200318173000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200318173000 +0100" stop="20200318180000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318173000 -0600" stop="20200318180000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200318180000 +0100" stop="20200318183000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318180000 -0600" stop="20200318183000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200318183000 +0100" stop="20200318190000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318183000 -0600" stop="20200318190000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200318190000 +0100" stop="20200318193000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318190000 -0600" stop="20200318193000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200318193000 +0100" stop="20200318200000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318193000 -0600" stop="20200318200000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200318200000 +0100" stop="20200318203000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318200000 -0600" stop="20200318203000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200318203000 +0100" stop="20200318210000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318203000 -0600" stop="20200318210000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200318210000 +0100" stop="20200318213000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318210000 -0600" stop="20200318213000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200318213000 +0100" stop="20200318220000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318213000 -0600" stop="20200318220000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200318220000 +0100" stop="20200318223000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318220000 -0600" stop="20200318223000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200318223000 +0100" stop="20200318230000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318223000 -0600" stop="20200318230000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200318230000 +0100" stop="20200318233000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318230000 -0600" stop="20200318233000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200318233000 +0100" stop="20200319003000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200318233000 -0600" stop="20200319003000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200319003000 +0100" stop="20200319010000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319003000 -0600" stop="20200319010000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200319010000 +0100" stop="20200319050000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319010000 -0600" stop="20200319053000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200319050000 +0100" stop="20200319063000 +0100" channel="Canal Más Chic Latinoamérica">
-    <title lang="es">Con el toque de Chus</title>
+  <programme start="20200319053000 -0600" stop="20200319063000 -0600" channel="Canal Más Chic Latinoamérica">
+    <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200319063000 +0100" stop="20200319070000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319063000 -0600" stop="20200319070000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con tus manos</title>
   </programme>
-  <programme start="20200319070000 +0100" stop="20200319123000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319070000 -0600" stop="20200319123000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200319123000 +0100" stop="20200319130000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319123000 -0600" stop="20200319130000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200319130000 +0100" stop="20200319183000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319130000 -0600" stop="20200319183000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200319183000 +0100" stop="20200319190000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319183000 -0600" stop="20200319190000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200319190000 +0100" stop="20200320010000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200319190000 -0600" stop="20200320010000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200320010000 +0100" stop="20200320070000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200320010000 -0600" stop="20200320070000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200320070000 +0100" stop="20200320130000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200320070000 -0600" stop="20200320130000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Madrid 2019</title>
   </programme>
-  <programme start="20200320130000 +0100" stop="20200320190000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200320130000 -0600" stop="20200320190000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200320190000 +0100" stop="20200321010000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200320190000 -0600" stop="20200321010000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321010000 +0100" stop="20200321070000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321010000 -0600" stop="20200321070000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321070000 +0100" stop="20200321110000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321070000 -0600" stop="20200321110000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Brasil 2015</title>
   </programme>
-  <programme start="20200321110000 +0100" stop="20200321113000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321110000 -0600" stop="20200321113000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200321113000 +0100" stop="20200321120000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321113000 -0600" stop="20200321120000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20200321120000 +0100" stop="20200321123000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321120000 -0600" stop="20200321123000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Deco Hogar</title>
   </programme>
-  <programme start="20200321123000 +0100" stop="20200321130000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321123000 -0600" stop="20200321130000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200321130000 +0100" stop="20200321133000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321130000 -0600" stop="20200321133000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200321133000 +0100" stop="20200321140000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321133000 -0600" stop="20200321140000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200321140000 +0100" stop="20200321143000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321140000 -0600" stop="20200321143000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200321143000 +0100" stop="20200321150000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321143000 -0600" stop="20200321150000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200321150000 +0100" stop="20200321153000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321150000 -0600" stop="20200321153000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200321153000 +0100" stop="20200321160000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321153000 -0600" stop="20200321160000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200321160000 +0100" stop="20200321163000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321160000 -0600" stop="20200321163000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200321163000 +0100" stop="20200321170000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321163000 -0600" stop="20200321170000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Reciclarte</title>
   </programme>
-  <programme start="20200321170000 +0100" stop="20200321173000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321170000 -0600" stop="20200321173000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200321173000 +0100" stop="20200321180000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321173000 -0600" stop="20200321180000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20200321180000 +0100" stop="20200321183000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321180000 -0600" stop="20200321183000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Deco Hogar</title>
   </programme>
-  <programme start="20200321183000 +0100" stop="20200321190000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321183000 -0600" stop="20200321190000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mis hoteles favoritos</title>
   </programme>
-  <programme start="20200321190000 +0100" stop="20200321193000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321190000 -0600" stop="20200321193000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200321193000 +0100" stop="20200321200000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321193000 -0600" stop="20200321200000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200321200000 +0100" stop="20200321203000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321200000 -0600" stop="20200321203000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200321203000 +0100" stop="20200321210000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321203000 -0600" stop="20200321210000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Mi Boda</title>
   </programme>
-  <programme start="20200321210000 +0100" stop="20200321213000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321210000 -0600" stop="20200321213000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200321213000 +0100" stop="20200321220000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321213000 -0600" stop="20200321220000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decora con flores</title>
   </programme>
-  <programme start="20200321220000 +0100" stop="20200321223000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321220000 -0600" stop="20200321223000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Vísteme Laura</title>
   </programme>
-  <programme start="20200321223000 +0100" stop="20200321230000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321223000 -0600" stop="20200321230000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Con el toque de Chus</title>
   </programme>
-  <programme start="20200321230000 +0100" stop="20200321233000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321230000 -0600" stop="20200321233000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Renueva tu imagen</title>
   </programme>
-  <programme start="20200321233000 +0100" stop="20200322000000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200321233000 -0600" stop="20200322000000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200322000000 +0100" stop="20200322003000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322000000 -0600" stop="20200322003000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200322003000 +0100" stop="20200322010000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322003000 -0600" stop="20200322010000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200322010000 +0100" stop="20200322013000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322010000 -0600" stop="20200322013000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200322013000 +0100" stop="20200322020000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322013000 -0600" stop="20200322020000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200322020000 +0100" stop="20200322023000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322020000 -0600" stop="20200322023000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20200322023000 +0100" stop="20200322030000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322023000 -0600" stop="20200322030000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fiesta en casa</title>
   </programme>
-  <programme start="20200322030000 +0100" stop="20200322033000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322030000 -0600" stop="20200322033000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200322033000 +0100" stop="20200322040000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322033000 -0600" stop="20200322040000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200322040000 +0100" stop="20200322043000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322040000 -0600" stop="20200322043000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">La recicladora de muebles</title>
   </programme>
-  <programme start="20200322043000 +0100" stop="20200322050000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322043000 -0600" stop="20200322050000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Reciclarte</title>
   </programme>
-  <programme start="20200322050000 +0100" stop="20200322053000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322050000 -0600" stop="20200322053000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200322053000 +0100" stop="20200322060000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322053000 -0600" stop="20200322060000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion week Madrid 2018</title>
   </programme>
-  <programme start="20200322060000 +0100" stop="20200322063000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322060000 -0600" stop="20200322063000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Celebraciones fáciles</title>
   </programme>
-  <programme start="20200322063000 +0100" stop="20200322070000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322063000 -0600" stop="20200322070000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Redecora con Raquel</title>
   </programme>
-  <programme start="20200322070000 +0100" stop="20200322073000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322070000 -0600" stop="20200322073000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Vísteme Laura</title>
   </programme>
-  <programme start="20200322073000 +0100" stop="20200322080000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322073000 -0600" stop="20200322080000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Cuerpo en Armonía</title>
   </programme>
-  <programme start="20200322080000 +0100" stop="20200322083000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322080000 -0600" stop="20200322083000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Viste tu Mesa</title>
   </programme>
-  <programme start="20200322083000 +0100" stop="20200322090000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322083000 -0600" stop="20200322090000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Customiza tu casa</title>
   </programme>
-  <programme start="20200322090000 +0100" stop="20200322093000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322090000 -0600" stop="20200322093000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Aprende a Maquillarte</title>
   </programme>
-  <programme start="20200322093000 +0100" stop="20200322100000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322093000 -0600" stop="20200322100000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">De compras en</title>
   </programme>
-  <programme start="20200322100000 +0100" stop="20200322103000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322100000 -0600" stop="20200322103000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Decoración creativa</title>
   </programme>
-  <programme start="20200322103000 +0100" stop="20200322130000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322103000 -0600" stop="20200322130000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Reciclarte</title>
   </programme>
-  <programme start="20200322130000 +0100" stop="20200322190000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322130000 -0600" stop="20200322190000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200322190000 +0100" stop="20200323010000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200322190000 -0600" stop="20200323010000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200323010000 +0100" stop="20200323070000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200323010000 -0600" stop="20200323070000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200323070000 +0100" stop="20200323130000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200323070000 -0600" stop="20200323130000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Fashion Week: Buenos Aires</title>
   </programme>
-  <programme start="20200323130000 +0100" stop="20200323190000 +0100" channel="Canal Más Chic Latinoamérica">
+  <programme start="20200323130000 -0600" stop="20200323190000 -0600" channel="Canal Más Chic Latinoamérica">
     <title lang="es">Colombia moda 2018</title>
   </programme>
-  <programme start="20200318003000 +0100" stop="20200318010000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318003000 -0600" stop="20200318010000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318010000 +0100" stop="20200318013000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318010000 -0600" stop="20200318013000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200318013000 +0100" stop="20200318020000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318013000 -0600" stop="20200318020000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200318020000 +0100" stop="20200318023000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318020000 -0600" stop="20200318023000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318023000 +0100" stop="20200318030000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318023000 -0600" stop="20200318030000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200318030000 +0100" stop="20200318033000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318030000 -0600" stop="20200318033000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318033000 +0100" stop="20200318040000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318033000 -0600" stop="20200318040000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318040000 +0100" stop="20200318043000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318040000 -0600" stop="20200318043000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Cc stand-up</title>
   </programme>
-  <programme start="20200318043000 +0100" stop="20200318050000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318043000 -0600" stop="20200318050000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Cc stand-up</title>
   </programme>
-  <programme start="20200318050000 +0100" stop="20200318060000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318050000 -0600" stop="20200318060000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Como burro en primavera</title>
   </programme>
-  <programme start="20200318060000 +0100" stop="20200318063000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318060000 -0600" stop="20200318063000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200318063000 +0100" stop="20200318070000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318063000 -0600" stop="20200318070000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200318070000 +0100" stop="20200318075000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318070000 -0600" stop="20200318075000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Duelo de Comediantes</title>
   </programme>
-  <programme start="20200318075000 +0100" stop="20200318081500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318075000 -0600" stop="20200318081500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318081500 +0100" stop="20200318084000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318081500 -0600" stop="20200318084000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318084000 +0100" stop="20200318090500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318084000 -0600" stop="20200318090500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318090500 +0100" stop="20200318092500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318090500 -0600" stop="20200318092500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318092500 +0100" stop="20200318095000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318092500 -0600" stop="20200318095000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Alternatino</title>
   </programme>
-  <programme start="20200318095000 +0100" stop="20200318101500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318095000 -0600" stop="20200318101500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Bad Robot</title>
   </programme>
-  <programme start="20200318101500 +0100" stop="20200318103500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318101500 -0600" stop="20200318103500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Bad Robot</title>
   </programme>
-  <programme start="20200318103500 +0100" stop="20200318110000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318103500 -0600" stop="20200318110000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Bad Robot</title>
   </programme>
-  <programme start="20200318110000 +0100" stop="20200318113000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318110000 -0600" stop="20200318113000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200318113000 +0100" stop="20200318120000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318113000 -0600" stop="20200318120000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200318120000 +0100" stop="20200318123000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200318123000 +0100" stop="20200318130000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318123000 -0600" stop="20200318130000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200318130000 +0100" stop="20200318143000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318130000 -0600" stop="20200318143000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La que se avecina</title>
   </programme>
-  <programme start="20200318143000 +0100" stop="20200318150000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318143000 -0600" stop="20200318150000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200318150000 +0100" stop="20200318153000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318150000 -0600" stop="20200318153000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318153000 +0100" stop="20200318160000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318153000 -0600" stop="20200318160000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318160000 +0100" stop="20200318170000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318160000 -0600" stop="20200318170000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318170000 +0100" stop="20200318173000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318170000 -0600" stop="20200318173000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200318173000 +0100" stop="20200318180000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318173000 -0600" stop="20200318180000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318180000 +0100" stop="20200318183000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318180000 -0600" stop="20200318183000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200318183000 +0100" stop="20200318190000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318183000 -0600" stop="20200318190000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200318190000 +0100" stop="20200318193000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318190000 -0600" stop="20200318193000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318193000 +0100" stop="20200318200000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318193000 -0600" stop="20200318200000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318200000 +0100" stop="20200318203000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318200000 -0600" stop="20200318203000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318203000 +0100" stop="20200318210000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318203000 -0600" stop="20200318210000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318210000 +0100" stop="20200318220000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318210000 -0600" stop="20200318220000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318220000 +0100" stop="20200318223000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318220000 -0600" stop="20200318223000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318223000 +0100" stop="20200318230000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318223000 -0600" stop="20200318230000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200318230000 +0100" stop="20200318233000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318230000 -0600" stop="20200318233000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318233000 +0100" stop="20200319020000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200318233000 -0600" stop="20200319020000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319020000 +0100" stop="20200319040000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319020000 -0600" stop="20200319040000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319040000 +0100" stop="20200319043000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319040000 -0600" stop="20200319043000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319043000 +0100" stop="20200319050000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319043000 -0600" stop="20200319050000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319050000 +0100" stop="20200319053000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319050000 -0600" stop="20200319053000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319053000 +0100" stop="20200319060000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319053000 -0600" stop="20200319060000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319060000 +0100" stop="20200319063000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319060000 -0600" stop="20200319063000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200319063000 +0100" stop="20200319070000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319063000 -0600" stop="20200319070000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200319070000 +0100" stop="20200319075000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319070000 -0600" stop="20200319075000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Duelo de Comediantes</title>
   </programme>
-  <programme start="20200319075000 +0100" stop="20200319081500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319075000 -0600" stop="20200319081500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319081500 +0100" stop="20200319084000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319081500 -0600" stop="20200319084000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319084000 +0100" stop="20200319090500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319084000 -0600" stop="20200319090500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319090500 +0100" stop="20200319092500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319090500 -0600" stop="20200319092500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319092500 +0100" stop="20200319095000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319092500 -0600" stop="20200319095000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319095000 +0100" stop="20200319101500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319095000 -0600" stop="20200319101500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319101500 +0100" stop="20200319103500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319101500 -0600" stop="20200319103500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319103500 +0100" stop="20200319110000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319103500 -0600" stop="20200319110000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319110000 +0100" stop="20200319113000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319110000 -0600" stop="20200319113000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200319113000 +0100" stop="20200319120000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319113000 -0600" stop="20200319120000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200319120000 +0100" stop="20200319123000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319120000 -0600" stop="20200319123000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200319123000 +0100" stop="20200319130000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319123000 -0600" stop="20200319130000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200319130000 +0100" stop="20200319143000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319130000 -0600" stop="20200319143000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La que se avecina</title>
   </programme>
-  <programme start="20200319143000 +0100" stop="20200319150000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319143000 -0600" stop="20200319150000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200319150000 +0100" stop="20200319153000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319150000 -0600" stop="20200319153000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319153000 +0100" stop="20200319160000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319153000 -0600" stop="20200319160000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319160000 +0100" stop="20200319163000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319160000 -0600" stop="20200319163000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319163000 +0100" stop="20200319173000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319163000 -0600" stop="20200319173000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319173000 +0100" stop="20200319180000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319173000 -0600" stop="20200319180000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200319180000 +0100" stop="20200319190000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319180000 -0600" stop="20200319190000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319190000 +0100" stop="20200319193000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319190000 -0600" stop="20200319193000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319193000 +0100" stop="20200319200000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319193000 -0600" stop="20200319200000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319200000 +0100" stop="20200319203000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319200000 -0600" stop="20200319203000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319203000 +0100" stop="20200319210000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319203000 -0600" stop="20200319210000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319210000 +0100" stop="20200319213000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319210000 -0600" stop="20200319213000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319213000 +0100" stop="20200319223000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319213000 -0600" stop="20200319223000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319223000 +0100" stop="20200320010000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200319223000 -0600" stop="20200320010000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Backdoor Youtube</title>
   </programme>
-  <programme start="20200320010000 +0100" stop="20200320020000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320010000 -0600" stop="20200320020000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Como burro en primavera</title>
   </programme>
-  <programme start="20200320020000 +0100" stop="20200320023000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320020000 -0600" stop="20200320023000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200320023000 +0100" stop="20200320030000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320023000 -0600" stop="20200320030000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200320030000 +0100" stop="20200320033000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320030000 -0600" stop="20200320033000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320033000 +0100" stop="20200320040000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320033000 -0600" stop="20200320040000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320040000 +0100" stop="20200320043000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320040000 -0600" stop="20200320043000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200320043000 +0100" stop="20200320050000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320043000 -0600" stop="20200320050000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200320050000 +0100" stop="20200320070000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320050000 -0600" stop="20200320070000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Orange is the New Black</title>
   </programme>
-  <programme start="20200320070000 +0100" stop="20200320080000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320070000 -0600" stop="20200320080000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Orange is the New Black</title>
   </programme>
-  <programme start="20200320080000 +0100" stop="20200320083000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320080000 -0600" stop="20200320083000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200320083000 +0100" stop="20200320090000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320083000 -0600" stop="20200320090000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200320090000 +0100" stop="20200320095000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320090000 -0600" stop="20200320095000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200320095000 +0100" stop="20200320101500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320095000 -0600" stop="20200320101500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Key and Peele</title>
   </programme>
-  <programme start="20200320101500 +0100" stop="20200320103500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320101500 -0600" stop="20200320103500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Key and Peele</title>
   </programme>
-  <programme start="20200320103500 +0100" stop="20200320150000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320103500 -0600" stop="20200320150000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Key and Peele</title>
   </programme>
-  <programme start="20200320150000 +0100" stop="20200320160000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320150000 -0600" stop="20200320160000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320160000 +0100" stop="20200320170000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320160000 -0600" stop="20200320170000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320170000 +0100" stop="20200320173000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320170000 -0600" stop="20200320173000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200320173000 +0100" stop="20200320180000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320173000 -0600" stop="20200320180000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200320180000 +0100" stop="20200320183000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320180000 -0600" stop="20200320183000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200320183000 +0100" stop="20200320210000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320183000 -0600" stop="20200320210000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200320210000 +0100" stop="20200320220000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320210000 -0600" stop="20200320220000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320220000 +0100" stop="20200320223000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320220000 -0600" stop="20200320223000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320223000 +0100" stop="20200320230000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320223000 -0600" stop="20200320230000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200320230000 +0100" stop="20200320233000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320230000 -0600" stop="20200320233000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200320233000 +0100" stop="20200321000000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200320233000 -0600" stop="20200321000000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321000000 +0100" stop="20200321003000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321000000 -0600" stop="20200321003000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321003000 +0100" stop="20200321030000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321003000 -0600" stop="20200321030000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321030000 +0100" stop="20200321040000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321030000 -0600" stop="20200321040000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Comedy Central Presenta</title>
   </programme>
-  <programme start="20200321040000 +0100" stop="20200321063000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321040000 -0600" stop="20200321063000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Un experto en diversión</title>
   </programme>
-  <programme start="20200321063000 +0100" stop="20200321070000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321063000 -0600" stop="20200321070000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200321070000 +0100" stop="20200321073000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321070000 -0600" stop="20200321073000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200321073000 +0100" stop="20200321080000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321073000 -0600" stop="20200321080000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200321080000 +0100" stop="20200321082500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321080000 -0600" stop="20200321082500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321082500 +0100" stop="20200321085000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321082500 -0600" stop="20200321085000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321085000 +0100" stop="20200321091000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321085000 -0600" stop="20200321091000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321091000 +0100" stop="20200321093000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321091000 -0600" stop="20200321093000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321093000 +0100" stop="20200321160000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321093000 -0600" stop="20200321160000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321160000 +0100" stop="20200321170000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321160000 -0600" stop="20200321170000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321170000 +0100" stop="20200321173000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321170000 -0600" stop="20200321173000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321173000 +0100" stop="20200321180000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321173000 -0600" stop="20200321180000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321180000 +0100" stop="20200321183000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321180000 -0600" stop="20200321183000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321183000 +0100" stop="20200321210000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321183000 -0600" stop="20200321210000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321210000 +0100" stop="20200321213000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321210000 -0600" stop="20200321213000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321213000 +0100" stop="20200321223000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321213000 -0600" stop="20200321223000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321223000 +0100" stop="20200321230000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321223000 -0600" stop="20200321230000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321230000 +0100" stop="20200322010000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200321230000 -0600" stop="20200322010000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322010000 +0100" stop="20200322013000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322010000 -0600" stop="20200322013000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322013000 +0100" stop="20200322023000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322013000 -0600" stop="20200322023000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322023000 +0100" stop="20200322030000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322023000 -0600" stop="20200322030000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322030000 +0100" stop="20200322044500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322030000 -0600" stop="20200322044500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Un experto en diversión</title>
   </programme>
-  <programme start="20200322044500 +0100" stop="20200322064500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322044500 -0600" stop="20200322064500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20200322064500 +0100" stop="20200322073000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322064500 -0600" stop="20200322073000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Como burro en primavera</title>
   </programme>
-  <programme start="20200322073000 +0100" stop="20200322080000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322073000 -0600" stop="20200322080000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Cc stand-up</title>
   </programme>
-  <programme start="20200322080000 +0100" stop="20200322082500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322080000 -0600" stop="20200322082500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322082500 +0100" stop="20200322085000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322082500 -0600" stop="20200322085000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322085000 +0100" stop="20200322091500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322085000 -0600" stop="20200322091500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322091500 +0100" stop="20200322093500 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322091500 -0600" stop="20200322093500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322093500 +0100" stop="20200322100000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322093500 -0600" stop="20200322100000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322100000 +0100" stop="20200322103000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322100000 -0600" stop="20200322103000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200322103000 +0100" stop="20200322170000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322103000 -0600" stop="20200322170000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200322170000 +0100" stop="20200322173000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322170000 -0600" stop="20200322173000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322173000 +0100" stop="20200322180000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322173000 -0600" stop="20200322180000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322180000 +0100" stop="20200322183000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322180000 -0600" stop="20200322183000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322183000 +0100" stop="20200322190000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322183000 -0600" stop="20200322190000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322190000 +0100" stop="20200322193000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322190000 -0600" stop="20200322193000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322193000 +0100" stop="20200322200000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322193000 -0600" stop="20200322200000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322200000 +0100" stop="20200322203000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322200000 -0600" stop="20200322203000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322203000 +0100" stop="20200322210000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322203000 -0600" stop="20200322210000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322210000 +0100" stop="20200322213000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322210000 -0600" stop="20200322213000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322213000 +0100" stop="20200322220000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322213000 -0600" stop="20200322220000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322220000 +0100" stop="20200322223000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322220000 -0600" stop="20200322223000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322223000 +0100" stop="20200322230000 +0100" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200322223000 -0600" stop="20200322230000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318003000 +0100" stop="20200318010000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318003000 -0600" stop="20200318010000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318010000 +0100" stop="20200318013000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318010000 -0600" stop="20200318013000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200318013000 +0100" stop="20200318020000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318013000 -0600" stop="20200318020000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200318020000 +0100" stop="20200318023000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318020000 -0600" stop="20200318023000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318023000 +0100" stop="20200318030000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318023000 -0600" stop="20200318030000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200318030000 +0100" stop="20200318033000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318030000 -0600" stop="20200318033000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318033000 +0100" stop="20200318040000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318033000 -0600" stop="20200318040000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318040000 +0100" stop="20200318043000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318040000 -0600" stop="20200318043000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Cc stand-up</title>
   </programme>
-  <programme start="20200318043000 +0100" stop="20200318050000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318043000 -0600" stop="20200318050000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Cc stand-up</title>
   </programme>
-  <programme start="20200318050000 +0100" stop="20200318060000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318050000 -0600" stop="20200318060000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Como burro en primavera</title>
   </programme>
-  <programme start="20200318060000 +0100" stop="20200318063000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318060000 -0600" stop="20200318063000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200318063000 +0100" stop="20200318070000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318063000 -0600" stop="20200318070000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200318070000 +0100" stop="20200318075000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318070000 -0600" stop="20200318075000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Duelo de Comediantes</title>
   </programme>
-  <programme start="20200318075000 +0100" stop="20200318081500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318075000 -0600" stop="20200318081500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318081500 +0100" stop="20200318084000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318081500 -0600" stop="20200318084000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318084000 +0100" stop="20200318090500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318084000 -0600" stop="20200318090500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318090500 +0100" stop="20200318092500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318090500 -0600" stop="20200318092500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200318092500 +0100" stop="20200318095000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318092500 -0600" stop="20200318095000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Alternatino</title>
   </programme>
-  <programme start="20200318095000 +0100" stop="20200318101500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318095000 -0600" stop="20200318101500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Bad Robot</title>
   </programme>
-  <programme start="20200318101500 +0100" stop="20200318103500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318101500 -0600" stop="20200318103500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Bad Robot</title>
   </programme>
-  <programme start="20200318103500 +0100" stop="20200318110000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318103500 -0600" stop="20200318110000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Bad Robot</title>
   </programme>
-  <programme start="20200318110000 +0100" stop="20200318113000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318110000 -0600" stop="20200318113000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200318113000 +0100" stop="20200318120000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318113000 -0600" stop="20200318120000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200318120000 +0100" stop="20200318123000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318120000 -0600" stop="20200318123000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200318123000 +0100" stop="20200318130000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318123000 -0600" stop="20200318130000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200318130000 +0100" stop="20200318143000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318130000 -0600" stop="20200318143000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La que se avecina</title>
   </programme>
-  <programme start="20200318143000 +0100" stop="20200318150000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318143000 -0600" stop="20200318150000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200318150000 +0100" stop="20200318153000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318150000 -0600" stop="20200318153000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318153000 +0100" stop="20200318160000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318153000 -0600" stop="20200318160000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318160000 +0100" stop="20200318170000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318160000 -0600" stop="20200318170000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318170000 +0100" stop="20200318173000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318170000 -0600" stop="20200318173000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200318173000 +0100" stop="20200318180000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318173000 -0600" stop="20200318180000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318180000 +0100" stop="20200318183000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318180000 -0600" stop="20200318183000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200318183000 +0100" stop="20200318190000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318183000 -0600" stop="20200318190000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200318190000 +0100" stop="20200318193000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318190000 -0600" stop="20200318193000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318193000 +0100" stop="20200318200000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318193000 -0600" stop="20200318200000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318200000 +0100" stop="20200318203000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318200000 -0600" stop="20200318203000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318203000 +0100" stop="20200318210000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318203000 -0600" stop="20200318210000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318210000 +0100" stop="20200318220000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318210000 -0600" stop="20200318220000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318220000 +0100" stop="20200318223000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318220000 -0600" stop="20200318223000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200318223000 +0100" stop="20200318230000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318223000 -0600" stop="20200318230000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200318230000 +0100" stop="20200318233000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318230000 -0600" stop="20200318233000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200318233000 +0100" stop="20200319020000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200318233000 -0600" stop="20200319020000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319020000 +0100" stop="20200319040000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319020000 -0600" stop="20200319040000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319040000 +0100" stop="20200319043000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319040000 -0600" stop="20200319043000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319043000 +0100" stop="20200319050000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319043000 -0600" stop="20200319050000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319050000 +0100" stop="20200319053000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319050000 -0600" stop="20200319053000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319053000 +0100" stop="20200319060000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319053000 -0600" stop="20200319060000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319060000 +0100" stop="20200319063000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319060000 -0600" stop="20200319063000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200319063000 +0100" stop="20200319070000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319063000 -0600" stop="20200319070000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200319070000 +0100" stop="20200319075000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319070000 -0600" stop="20200319075000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Duelo de Comediantes</title>
   </programme>
-  <programme start="20200319075000 +0100" stop="20200319081500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319075000 -0600" stop="20200319081500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319081500 +0100" stop="20200319084000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319081500 -0600" stop="20200319084000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319084000 +0100" stop="20200319090500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319084000 -0600" stop="20200319090500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319090500 +0100" stop="20200319092500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319090500 -0600" stop="20200319092500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319092500 +0100" stop="20200319095000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319092500 -0600" stop="20200319095000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319095000 +0100" stop="20200319101500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319095000 -0600" stop="20200319101500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319101500 +0100" stop="20200319103500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319101500 -0600" stop="20200319103500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319103500 +0100" stop="20200319110000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319103500 -0600" stop="20200319110000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200319110000 +0100" stop="20200319113000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319110000 -0600" stop="20200319113000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200319113000 +0100" stop="20200319120000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319113000 -0600" stop="20200319120000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20200319120000 +0100" stop="20200319123000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319120000 -0600" stop="20200319123000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200319123000 +0100" stop="20200319130000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319123000 -0600" stop="20200319130000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Lip Sync Battle</title>
   </programme>
-  <programme start="20200319130000 +0100" stop="20200319143000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319130000 -0600" stop="20200319143000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La que se avecina</title>
   </programme>
-  <programme start="20200319143000 +0100" stop="20200319150000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319143000 -0600" stop="20200319150000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
-  <programme start="20200319150000 +0100" stop="20200319153000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319150000 -0600" stop="20200319153000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319153000 +0100" stop="20200319160000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319153000 -0600" stop="20200319160000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319160000 +0100" stop="20200319163000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319160000 -0600" stop="20200319163000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319163000 +0100" stop="20200319173000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319163000 -0600" stop="20200319173000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319173000 +0100" stop="20200319180000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319173000 -0600" stop="20200319180000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200319180000 +0100" stop="20200319190000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319180000 -0600" stop="20200319190000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319190000 +0100" stop="20200319193000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319190000 -0600" stop="20200319193000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319193000 +0100" stop="20200319200000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319193000 -0600" stop="20200319200000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200319200000 +0100" stop="20200319203000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319200000 -0600" stop="20200319203000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319203000 +0100" stop="20200319210000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319203000 -0600" stop="20200319210000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200319210000 +0100" stop="20200319213000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319210000 -0600" stop="20200319213000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319213000 +0100" stop="20200319223000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319213000 -0600" stop="20200319223000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200319223000 +0100" stop="20200320010000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200319223000 -0600" stop="20200320010000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Backdoor Youtube</title>
   </programme>
-  <programme start="20200320010000 +0100" stop="20200320020000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320010000 -0600" stop="20200320020000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Como burro en primavera</title>
   </programme>
-  <programme start="20200320020000 +0100" stop="20200320023000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320020000 -0600" stop="20200320023000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200320023000 +0100" stop="20200320030000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320023000 -0600" stop="20200320030000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200320030000 +0100" stop="20200320033000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320030000 -0600" stop="20200320033000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320033000 +0100" stop="20200320040000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320033000 -0600" stop="20200320040000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320040000 +0100" stop="20200320043000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320040000 -0600" stop="20200320043000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200320043000 +0100" stop="20200320050000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320043000 -0600" stop="20200320050000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200320050000 +0100" stop="20200320070000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320050000 -0600" stop="20200320070000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Orange is the New Black</title>
   </programme>
-  <programme start="20200320070000 +0100" stop="20200320080000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320070000 -0600" stop="20200320080000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Orange is the New Black</title>
   </programme>
-  <programme start="20200320080000 +0100" stop="20200320083000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320080000 -0600" stop="20200320083000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200320083000 +0100" stop="20200320090000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320083000 -0600" stop="20200320090000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200320090000 +0100" stop="20200320095000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320090000 -0600" stop="20200320095000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
-  <programme start="20200320095000 +0100" stop="20200320101500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320095000 -0600" stop="20200320101500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Key and Peele</title>
   </programme>
-  <programme start="20200320101500 +0100" stop="20200320103500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320101500 -0600" stop="20200320103500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Key and Peele</title>
   </programme>
-  <programme start="20200320103500 +0100" stop="20200320150000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320103500 -0600" stop="20200320150000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Key and Peele</title>
   </programme>
-  <programme start="20200320150000 +0100" stop="20200320160000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320150000 -0600" stop="20200320160000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320160000 +0100" stop="20200320170000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320160000 -0600" stop="20200320170000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320170000 +0100" stop="20200320173000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320170000 -0600" stop="20200320173000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">The office</title>
   </programme>
-  <programme start="20200320173000 +0100" stop="20200320180000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320173000 -0600" stop="20200320180000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200320180000 +0100" stop="20200320183000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320180000 -0600" stop="20200320183000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200320183000 +0100" stop="20200320210000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320183000 -0600" stop="20200320210000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200320210000 +0100" stop="20200320220000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320210000 -0600" stop="20200320220000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320220000 +0100" stop="20200320223000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320220000 -0600" stop="20200320223000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200320223000 +0100" stop="20200320230000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320223000 -0600" stop="20200320230000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20200320230000 +0100" stop="20200320233000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320230000 -0600" stop="20200320233000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200320233000 +0100" stop="20200321000000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200320233000 -0600" stop="20200321000000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321000000 +0100" stop="20200321003000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321000000 -0600" stop="20200321003000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321003000 +0100" stop="20200321030000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321003000 -0600" stop="20200321030000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321030000 +0100" stop="20200321040000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321030000 -0600" stop="20200321040000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Comedy Central Presenta</title>
   </programme>
-  <programme start="20200321040000 +0100" stop="20200321063000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321040000 -0600" stop="20200321063000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Un experto en diversión</title>
   </programme>
-  <programme start="20200321063000 +0100" stop="20200321070000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321063000 -0600" stop="20200321070000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200321070000 +0100" stop="20200321073000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321070000 -0600" stop="20200321073000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200321073000 +0100" stop="20200321080000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321073000 -0600" stop="20200321080000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Schitt's Creek</title>
   </programme>
-  <programme start="20200321080000 +0100" stop="20200321082500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321080000 -0600" stop="20200321082500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321082500 +0100" stop="20200321085000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321082500 -0600" stop="20200321085000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321085000 +0100" stop="20200321091000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321085000 -0600" stop="20200321091000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321091000 +0100" stop="20200321093000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321091000 -0600" stop="20200321093000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321093000 +0100" stop="20200321160000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321093000 -0600" stop="20200321160000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Drawn Together</title>
   </programme>
-  <programme start="20200321160000 +0100" stop="20200321170000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321160000 -0600" stop="20200321170000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321170000 +0100" stop="20200321173000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321170000 -0600" stop="20200321173000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321173000 +0100" stop="20200321180000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321173000 -0600" stop="20200321180000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321180000 +0100" stop="20200321183000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321180000 -0600" stop="20200321183000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321183000 +0100" stop="20200321210000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321183000 -0600" stop="20200321210000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321210000 +0100" stop="20200321213000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321210000 -0600" stop="20200321213000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321213000 +0100" stop="20200321223000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321213000 -0600" stop="20200321223000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200321223000 +0100" stop="20200321230000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321223000 -0600" stop="20200321230000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200321230000 +0100" stop="20200322010000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200321230000 -0600" stop="20200322010000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322010000 +0100" stop="20200322013000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322010000 -0600" stop="20200322013000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322013000 +0100" stop="20200322023000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322013000 -0600" stop="20200322023000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322023000 +0100" stop="20200322030000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322023000 -0600" stop="20200322030000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322030000 +0100" stop="20200322044500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322030000 -0600" stop="20200322044500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Un experto en diversión</title>
   </programme>
-  <programme start="20200322044500 +0100" stop="20200322064500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322044500 -0600" stop="20200322064500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20200322064500 +0100" stop="20200322073000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322064500 -0600" stop="20200322073000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Como burro en primavera</title>
   </programme>
-  <programme start="20200322073000 +0100" stop="20200322080000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322073000 -0600" stop="20200322080000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Cc stand-up</title>
   </programme>
-  <programme start="20200322080000 +0100" stop="20200322082500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322080000 -0600" stop="20200322082500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322082500 +0100" stop="20200322085000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322082500 -0600" stop="20200322085000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322085000 +0100" stop="20200322091500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322085000 -0600" stop="20200322091500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322091500 +0100" stop="20200322093500 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322091500 -0600" stop="20200322093500 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322093500 +0100" stop="20200322100000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322093500 -0600" stop="20200322100000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Ugly Americans</title>
   </programme>
-  <programme start="20200322100000 +0100" stop="20200322103000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322100000 -0600" stop="20200322103000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200322103000 +0100" stop="20200322170000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322103000 -0600" stop="20200322170000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La Familia del Barrio</title>
   </programme>
-  <programme start="20200322170000 +0100" stop="20200322173000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322170000 -0600" stop="20200322173000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322173000 +0100" stop="20200322180000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322173000 -0600" stop="20200322180000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322180000 +0100" stop="20200322183000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322180000 -0600" stop="20200322183000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322183000 +0100" stop="20200322190000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322183000 -0600" stop="20200322190000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322190000 +0100" stop="20200322193000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322190000 -0600" stop="20200322193000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322193000 +0100" stop="20200322200000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322193000 -0600" stop="20200322200000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
   </programme>
-  <programme start="20200322200000 +0100" stop="20200322203000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322200000 -0600" stop="20200322203000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322203000 +0100" stop="20200322210000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322203000 -0600" stop="20200322210000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Se rentan Cuartos</title>
   </programme>
-  <programme start="20200322210000 +0100" stop="20200322213000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322210000 -0600" stop="20200322213000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322213000 +0100" stop="20200322220000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322213000 -0600" stop="20200322220000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322220000 +0100" stop="20200322223000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322220000 -0600" stop="20200322223000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">La familia P.luche</title>
   </programme>
-  <programme start="20200322223000 +0100" stop="20200322230000 +0100" channel="Canal Comedy Central (México)">
+  <programme start="20200322223000 -0600" stop="20200322230000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200318010000 -0600" stop="20200318020000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318020000 -0600" stop="20200318030000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200318030000 -0600" stop="20200318040000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Biggest! Hottest! Loudest</title>
+  </programme>
+  <programme start="20200318040000 -0600" stop="20200318050000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318050000 -0600" stop="20200318053000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200318053000 -0600" stop="20200318060000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200318060000 -0600" stop="20200318070000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318070000 -0600" stop="20200318080000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318080000 -0600" stop="20200318090000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200318090000 -0600" stop="20200318100000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Biggest! Hottest! Loudest</title>
+  </programme>
+  <programme start="20200318100000 -0600" stop="20200318110000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318110000 -0600" stop="20200318113000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200318113000 -0600" stop="20200318120000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200318120000 -0600" stop="20200318130000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318130000 -0600" stop="20200318140000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318140000 -0600" stop="20200318150000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Alterlatinos</title>
+  </programme>
+  <programme start="20200318150000 -0600" stop="20200318160000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Biggest! Hottest! Loudest</title>
+  </programme>
+  <programme start="20200318160000 -0600" stop="20200318170000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318170000 -0600" stop="20200318180000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200318180000 -0600" stop="20200318190000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318190000 -0600" stop="20200318200000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318200000 -0600" stop="20200318210000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Alterlatinos</title>
+  </programme>
+  <programme start="20200318210000 -0600" stop="20200318220000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Biggest! Hottest! Loudest</title>
+  </programme>
+  <programme start="20200318220000 -0600" stop="20200318230000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200318230000 -0600" stop="20200319020000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200319020000 -0600" stop="20200319050000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Alterlatinos</title>
+  </programme>
+  <programme start="20200319050000 -0600" stop="20200319060000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200319060000 -0600" stop="20200319070000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200319070000 -0600" stop="20200319080000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200319080000 -0600" stop="20200319090000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Alterlatinos</title>
+  </programme>
+  <programme start="20200319090000 -0600" stop="20200319100000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Biggest! Hottest! Loudest</title>
+  </programme>
+  <programme start="20200319100000 -0600" stop="20200319110000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200319110000 -0600" stop="20200319140000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200319140000 -0600" stop="20200319170000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200319170000 -0600" stop="20200319173000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200319173000 -0600" stop="20200319180000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200319180000 -0600" stop="20200319190000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200319190000 -0600" stop="20200319200000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200319200000 -0600" stop="20200319210000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200319210000 -0600" stop="20200319220000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Biggest! Hottest! Loudest</title>
+  </programme>
+  <programme start="20200319220000 -0600" stop="20200319230000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20200319230000 -0600" stop="20200319233000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200319233000 -0600" stop="20200320050000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200320050000 -0600" stop="20200320053000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200320053000 -0600" stop="20200320110000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200320110000 -0600" stop="20200320113000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200320113000 -0600" stop="20200320140000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200320140000 -0600" stop="20200320170000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Club MTV</title>
+  </programme>
+  <programme start="20200320170000 -0600" stop="20200320200000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200320200000 -0600" stop="20200320230000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Club MTV</title>
+  </programme>
+  <programme start="20200320230000 -0600" stop="20200321020000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321020000 -0600" stop="20200321050000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Club MTV</title>
+  </programme>
+  <programme start="20200321050000 -0600" stop="20200321080000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321080000 -0600" stop="20200321110000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Club MTV</title>
+  </programme>
+  <programme start="20200321110000 -0600" stop="20200321120000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321120000 -0600" stop="20200321130000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200321130000 -0600" stop="20200321140000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200321140000 -0600" stop="20200321150000 -0600" channel="Canal MTV Hits">
+    <title lang="es">3x1 Hitlist</title>
+  </programme>
+  <programme start="20200321150000 -0600" stop="20200321160000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200321160000 -0600" stop="20200321170000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321170000 -0600" stop="20200321173000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321173000 -0600" stop="20200321180000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321180000 -0600" stop="20200321190000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200321190000 -0600" stop="20200321200000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200321200000 -0600" stop="20200321210000 -0600" channel="Canal MTV Hits">
+    <title lang="es">3x1 Hitlist</title>
+  </programme>
+  <programme start="20200321210000 -0600" stop="20200321220000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200321220000 -0600" stop="20200321230000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321230000 -0600" stop="20200321233000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200321233000 -0600" stop="20200322000000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200322000000 -0600" stop="20200322010000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200322010000 -0600" stop="20200322020000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200322020000 -0600" stop="20200322030000 -0600" channel="Canal MTV Hits">
+    <title lang="es">3x1 Hitlist</title>
+  </programme>
+  <programme start="20200322030000 -0600" stop="20200322040000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200322040000 -0600" stop="20200322060000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200322060000 -0600" stop="20200322070000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200322070000 -0600" stop="20200322080000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200322080000 -0600" stop="20200322090000 -0600" channel="Canal MTV Hits">
+    <title lang="es">3x1 Hitlist</title>
+  </programme>
+  <programme start="20200322090000 -0600" stop="20200322100000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200322100000 -0600" stop="20200322160000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200322160000 -0600" stop="20200322180000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200322180000 -0600" stop="20200322190000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200322190000 -0600" stop="20200322210000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200322210000 -0600" stop="20200322220000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200322220000 -0600" stop="20200323040000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200323040000 -0600" stop="20200323060000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200323060000 -0600" stop="20200323070000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200323070000 -0600" stop="20200323090000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20200323090000 -0600" stop="20200323100000 -0600" channel="Canal MTV Hits">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20200323100000 -0600" stop="20200323170000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200323170000 -0600" stop="20200323200000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200323200000 -0600" stop="20200323230000 -0600" channel="Canal MTV Hits">
+    <title lang="es">3x1 Hitlist</title>
+  </programme>
+  <programme start="20200323230000 -0600" stop="20200324050000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200324050000 -0600" stop="20200324080000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200324080000 -0600" stop="20200324110000 -0600" channel="Canal MTV Hits">
+    <title lang="es">3x1 Hitlist</title>
+  </programme>
+  <programme start="20200324110000 -0600" stop="20200324170000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200324170000 -0600" stop="20200324173000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200324173000 -0600" stop="20200324230000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20200324230000 -0600" stop="20200324233000 -0600" channel="Canal MTV Hits">
+    <title lang="es">Hitlist</title>
   </programme>
 </tv>
